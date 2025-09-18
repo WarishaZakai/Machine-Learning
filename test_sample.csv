@@ -1,0 +1,6 @@
+Age,Fare,Parch,SibSp,Sex,Embarked,Pclass
+22,7.25,0,1,male,S,3
+38,71.28,0,1,female,C,1
+26,7.92,0,0,female,S,3
+35,53.1,0,1,male,S,1
+28,8.05,0,0,male,Q,3
